@@ -8,4 +8,4 @@ Steps:
 1. Create a folder and place your PDFs.
 2. Create a destination folder for modified PDFs.
 3. Specify the path to folders and margin values in the script.
-4. RUN
+4. Save changes and run the script.
